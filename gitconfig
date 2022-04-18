@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 'tjvillalobos@uc.cl'
+	name = 'tomas villalobos'
